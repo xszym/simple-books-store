@@ -15,3 +15,6 @@ University Java project for books store
 #### Database ui
 `http://localhost:8081/`
 
+## Tests
+### Postman
+To run tests import `BookStore.postman_collection.json` to postman and create new Environment to makes it works.  
